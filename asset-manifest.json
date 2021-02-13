@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/traum-works/static/css/main.b7fb8092.chunk.css",
+    "main.js": "/traum-works/static/js/main.c6e7c2bf.chunk.js",
+    "main.js.map": "/traum-works/static/js/main.c6e7c2bf.chunk.js.map",
+    "runtime-main.js": "/traum-works/static/js/runtime-main.34079534.js",
+    "runtime-main.js.map": "/traum-works/static/js/runtime-main.34079534.js.map",
+    "static/css/2.a1596f27.chunk.css": "/traum-works/static/css/2.a1596f27.chunk.css",
+    "static/js/2.8aaab838.chunk.js": "/traum-works/static/js/2.8aaab838.chunk.js",
+    "static/js/2.8aaab838.chunk.js.map": "/traum-works/static/js/2.8aaab838.chunk.js.map",
+    "static/js/3.760c7fc6.chunk.js": "/traum-works/static/js/3.760c7fc6.chunk.js",
+    "static/js/3.760c7fc6.chunk.js.map": "/traum-works/static/js/3.760c7fc6.chunk.js.map",
+    "index.html": "/traum-works/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/traum-works/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.b7fb8092.chunk.css.map": "/traum-works/static/css/main.b7fb8092.chunk.css.map",
+    "static/js/2.8aaab838.chunk.js.LICENSE.txt": "/traum-works/static/js/2.8aaab838.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/traum-works/static/media/SecularOne.3786d92f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34079534.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.8aaab838.chunk.js",
+    "static/css/main.b7fb8092.chunk.css",
+    "static/js/main.c6e7c2bf.chunk.js"
+  ]
+}
