@@ -1,0 +1,1 @@
+![alt traum logo](https://github.com/traum-works/media/blob/master/logos/logo_black.png?raw=true)
