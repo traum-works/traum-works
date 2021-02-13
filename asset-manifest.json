@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.f3cd61aa.chunk.css",
-    "main.js": "/static/js/main.c6e7c2bf.chunk.js",
-    "main.js.map": "/static/js/main.c6e7c2bf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0068a7f2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0068a7f2.js.map",
-    "static/css/2.a1596f27.chunk.css": "/static/css/2.a1596f27.chunk.css",
-    "static/js/2.8aaab838.chunk.js": "/static/js/2.8aaab838.chunk.js",
-    "static/js/2.8aaab838.chunk.js.map": "/static/js/2.8aaab838.chunk.js.map",
-    "static/js/3.760c7fc6.chunk.js": "/static/js/3.760c7fc6.chunk.js",
-    "static/js/3.760c7fc6.chunk.js.map": "/static/js/3.760c7fc6.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.a1596f27.chunk.css.map": "/static/css/2.a1596f27.chunk.css.map",
-    "static/css/main.f3cd61aa.chunk.css.map": "/static/css/main.f3cd61aa.chunk.css.map",
-    "static/js/2.8aaab838.chunk.js.LICENSE.txt": "/static/js/2.8aaab838.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/SecularOne.3786d92f.ttf"
+    "main.css": "/index/static/css/main.52afd546.chunk.css",
+    "main.js": "/index/static/js/main.c6e7c2bf.chunk.js",
+    "main.js.map": "/index/static/js/main.c6e7c2bf.chunk.js.map",
+    "runtime-main.js": "/index/static/js/runtime-main.db399919.js",
+    "runtime-main.js.map": "/index/static/js/runtime-main.db399919.js.map",
+    "static/css/2.a1596f27.chunk.css": "/index/static/css/2.a1596f27.chunk.css",
+    "static/js/2.8aaab838.chunk.js": "/index/static/js/2.8aaab838.chunk.js",
+    "static/js/2.8aaab838.chunk.js.map": "/index/static/js/2.8aaab838.chunk.js.map",
+    "static/js/3.760c7fc6.chunk.js": "/index/static/js/3.760c7fc6.chunk.js",
+    "static/js/3.760c7fc6.chunk.js.map": "/index/static/js/3.760c7fc6.chunk.js.map",
+    "index.html": "/index/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/index/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.52afd546.chunk.css.map": "/index/static/css/main.52afd546.chunk.css.map",
+    "static/js/2.8aaab838.chunk.js.LICENSE.txt": "/index/static/js/2.8aaab838.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/index/static/media/SecularOne.3786d92f.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.0068a7f2.js",
+    "static/js/runtime-main.db399919.js",
     "static/css/2.a1596f27.chunk.css",
     "static/js/2.8aaab838.chunk.js",
-    "static/css/main.f3cd61aa.chunk.css",
+    "static/css/main.52afd546.chunk.css",
     "static/js/main.c6e7c2bf.chunk.js"
   ]
 }
